@@ -5,7 +5,7 @@ installScripts/pyInstaller/build/
 installScripts/pyInstaller/dist/
 build/
 tests/resources/Cell1/pwsmetadata.json
-docs/source/generated/
+docSrc/source/generated/
 .idea/workspace.xml
 buildScripts/pyInstaller/dist/
 .idea/
